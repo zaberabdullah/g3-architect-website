@@ -213,6 +213,26 @@ main > section{
     filter: grayscale(100%);
 }
 
+footer{
+    width: 100%;
+}
+
+.footer-container{
+    background-color: #FFF4E7;
+    width: 1440px;
+    margin: 130px 195px 127px;
+    margin-left: 227px;
+   
+}
+
+.copyright-container{
+    color:#727272;
+    text-align: center;
+    margin-bottom: 216px;
+    padding: 40px 210px;
+    font-size: 20px;
+}
+
 
 /* responsive media query */
 @media screen and (max-width:576px) {
@@ -267,4 +287,5 @@ main > section{
         margin-top: 20px;
         margin-left: 20px;
     }
+
 }
