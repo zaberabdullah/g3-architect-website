@@ -299,5 +299,11 @@ main > section{
         margin-top: 20px;
         margin-left: 20px;
     }
+    .footer-content{
+    font-size: 1rem;
+    color: #424242;
+    padding:10px 10px;
+    text-align: center;
+}
 
 }
